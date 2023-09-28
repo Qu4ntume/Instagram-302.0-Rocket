@@ -4,7 +4,7 @@
 
 👋 Instagram with Rocket.
 
-👋 Go to Rocket Settings -> Upgrade to Pro -> Restore purchases (to disable adds)
+👋 Go to Rocket Settings -> Upgrade to Pro -> Restore purchases (to activate pro)
 
 **NOTE:** This version of Instagram is a modified version of the official app and may not comply with Instagram's terms of use. Use this app at your own risk.
 
