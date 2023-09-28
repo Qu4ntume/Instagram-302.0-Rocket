@@ -1,5 +1,3 @@
-# Instagram-302.0-rocket
-
 # Instagram Tweaked (302.0) + RocketPro 📸🚀
 
 ## Introduction
