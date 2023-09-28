@@ -1,8 +1,10 @@
-# Instagram Tweaked (302.0) + RocketPro 📸🚀
+## Instagram Tweaked (302.0) + RocketPro 📸🚀
 
 ## Introduction
 
-👋 Instagram with Rocket Pro.
+👋 Instagram with Rocket.
+
+👋 Go to Rocket Settings -> Upgrade to Pro -> Restore purchases (to disable adds)
 
 **NOTE:** This version of Instagram is a modified version of the official app and may not comply with Instagram's terms of use. Use this app at your own risk.
 
@@ -13,7 +15,7 @@
 
 ## Download
 
-Instagram 302.0 + Rocket [Releases](https://github.com/v1sion1st/Instagram-Rocket/releases) tab.
+Instagram 302.0 + Rocket [Releases](https://github.com/Qu4ntume/Instagram-302.0-rocket/releases/tag/IPA) tab.
 
 ## Tested on iOS 16.4.1
 
