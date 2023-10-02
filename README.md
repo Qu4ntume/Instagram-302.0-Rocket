@@ -13,6 +13,10 @@
 1. iPhone with iOS (recommended iOS 14 or newer).
 2. Download .ipa file then sideload it.
 
+## More apps
+
+Discord: https://discord.gg/CSXcfwyTzh
+
 ## Download
 
 Instagram 302.0 + Rocket [Releases](https://github.com/Qu4ntume/Instagram-302.0-rocket/releases/tag/IPA) tab.
